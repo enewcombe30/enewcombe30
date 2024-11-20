@@ -1,10 +1,10 @@
 # Hi 👋 I'm Elijah 
 
-## Junior Frontend Developer
+## Frontend Developer
 
 ## About me 
 
-Back in 2021 I decided to leave a successful career in hospitality and jump head first into the world of code! I completed a bootcamp with [The Learning People](https://www.learningpeople.com/uk/) focused on HTML, CSS and JavaScript and gained an MTA qualification in C# Fundamentals. I then gained a years experience working as a Junior Developer for a start-up company building Automation Software designed to provide Ad agencies IFTTT functionality when managing Amazon Sellers and Brands. Building and maintaining frontend code and Designing, building and maintaining unit and end-to-end tests.
+Back in 2021 I decided to leave a successful career in hospitality and jump head first into the world of code! I completed a bootcamp with [The Learning People](https://www.learningpeople.com/uk/) focused on HTML, CSS and JavaScript and gained an MTA qualification in C# Fundamentals. I then gained a years experience working as a Frontend Developer for a start-up company building Automation Software designed to provide Ad agencies IFTTT functionality when managing Amazon Sellers and Brands. Building and maintaining frontend code and Designing, building and maintaining unit and end-to-end tests.
 
 - 🏡 I'm based in Cambridge, UK
 - 🌐 Check out my [Portfolio](https://enewcombe30.github.io/portfolio-2023/)
