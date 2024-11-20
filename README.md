@@ -1,6 +1,6 @@
 # Hi 👋 I'm Elijah 
 
-## Frontend Developer
+## Frontend Web Developer
 
 ## About me 
 
